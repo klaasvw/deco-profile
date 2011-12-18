@@ -1,0 +1,43 @@
+
+name = Deco Install Profile
+description = Install Deco.
+core = 7.x
+
+; Core
+dependencies[] = block
+dependencies[] = contextual
+dependencies[] = dashboard
+dependencies[] = help
+dependencies[] = image
+dependencies[] = list
+dependencies[] = menu
+dependencies[] = number
+dependencies[] = options
+dependencies[] = path
+dependencies[] = taxonomy
+dependencies[] = syslog
+dependencies[] = search
+dependencies[] = shortcut
+dependencies[] = toolbar
+dependencies[] = overlay
+dependencies[] = field
+dependencies[] = field_ui
+dependencies[] = file
+dependencies[] = rdf
+
+
+; Contrib
+dependencies[] = admin_menu
+dependencies[] = ctools
+dependencies[] = date
+dependencies[] = devel
+dependencies[] = diff
+dependencies[] = entity
+dependencies[] = field_group
+dependencies[] = imce
+dependencies[] = imce_wysiwyg
+dependencies[] = pathauto
+dependencies[] = token
+dependencies[] = views
+dependencies[] = views_ui
+dependencies[] = wysiwyg
