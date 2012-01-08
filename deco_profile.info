@@ -2,6 +2,7 @@
 name = Deco Install Profile
 description = Install Deco.
 core = 7.x
+version = 7.0
 
 ; Core
 dependencies[] = block
