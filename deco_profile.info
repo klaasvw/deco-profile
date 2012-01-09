@@ -18,7 +18,6 @@ dependencies[] = path
 dependencies[] = taxonomy
 dependencies[] = syslog
 dependencies[] = search
-dependencies[] = shortcut
 dependencies[] = toolbar
 dependencies[] = overlay
 dependencies[] = field
