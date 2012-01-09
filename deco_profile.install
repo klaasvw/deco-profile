@@ -7,8 +7,11 @@
  */
 function deco_profile_install() {
   // Set the default and admin themes
-  variable_set("theme_default", "deco_profile");
-  theme_enable(array("deco_profile"));
+  theme_enable(array('deco', 'seven'));
+  variable_set('theme_default', 'deco');
+  variable_set('admin_theme', 'seven');
+  variable_set('node_admin_theme', '1');
+
   
   deco_profile_add_default_text_formats_and_perms();
 
