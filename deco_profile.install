@@ -20,7 +20,7 @@ function deco_profile_install() {
   }
   
   // Allow visitor account creation with administrative approval.
-  variable_set('user_register', USER_REGISTER_VISITORS_ADMINISTRATIVE_APPROVAL);
+  variable_set('user_register', USER_REGISTER_ADMINISTRATORS_ONLY);
 }
 
 /**
