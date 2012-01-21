@@ -31,6 +31,7 @@ dependencies[] = admin_menu
 dependencies[] = ctools
 dependencies[] = date
 dependencies[] = devel
+dependencies[] = devel_generate
 dependencies[] = diff
 dependencies[] = entity
 dependencies[] = field_group
